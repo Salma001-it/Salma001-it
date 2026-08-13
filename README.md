@@ -4,7 +4,7 @@ I work on **alternative data and generative AI (Transformers, diffusion models, 
 
 My projects combine LLMs, retrieval-augmented generation, and reinforcement learning with financial and macroeconomic data.
 
-- 🌱 Background: M.Sc. Quantitative Finance (110/110 cum laude) · B.Sc. Economics (110/110 cum laude)
+- 🌱 Background: M.Sc. Quantitative Finance · B.Sc. Economics
 - 🔭 Currently exploring diffusion models for price/volatility trajectory generation
 - 📫 Reach me: salmanajih001@gmail.com
 - 🤗 Datasets & demos: [Hugging Face](https://huggingface.co/SelmaNajih001)
