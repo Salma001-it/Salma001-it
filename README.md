@@ -12,24 +12,27 @@ My projects combine LLMs, retrieval-augmented generation, and reinforcement lear
 ---
 
 ### Featured projects
-
+ 
 **[TransformerModelForMarketPrediction](https://github.com/Salma001-it/TransformerModelForMarketPrediction)**
 Transformer built from scratch, using attention as a context-retrieval mechanism over financial, macroeconomic, and news-embedding data to predict next-day stock returns.
-
+ 
 **[Cnbc_Scraper](https://github.com/Salma001-it/Cnbc_Scraper)**
 Automated daily scraper for S&P 500 company news, feeding a continuously updated dataset published on Hugging Face.
-
+ 
 **[QLearningProject](https://github.com/Salma001-it/QLearningProject)**
 Time-dependent Q-Learning algorithm for the consumption-free Merton problem — reinforcement learning applied to stochastic portfolio optimization.
-
+ 
 **[AmericanOptions](https://github.com/Salma001-it/AmericanOptions)**
 Java implementation of binomial trees for American option pricing.
-
+ 
 **[ScrapingFT](https://github.com/Salma001-it/ScrapingFT)**
 Financial Times news scraper for financial text data collection.
-
-*Sentiment analysis, stock-prediction explanation (RAG + GRPO), and alternative-data foot-traffic monitoring projects are on [Hugging Face](https://huggingface.co/SelmaNajih001).*
-
+ 
+**[SentimentAnalysis-for-Stock-Prediction](https://github.com/Salma001-it/SentimentAnalysis-for-Stock-Prediction)**
+Case study on Tesla, linking financial news sentiment to price movements and evaluating a tailored event-driven model.
+ 
+*Explainable stock-prediction work (RAG + GRPO) and alternative-data foot-traffic monitoring are on [Hugging Face](https://huggingface.co/SelmaNajih001).*
+ 
 ---
 
 ### Tech stack
