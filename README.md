@@ -1,6 +1,6 @@
 # Hi, I'm Salma 👋
 
-I work on **alternative data and generative AI (Transformers, diffusion models, RAG/RL) applied to finance** — moving beyond black-box prediction toward models that also **explain** what drives market movements.
+I work on **alternative data and generative AI (Transformers, diffusion models, RAG/RL) applied to finance**: moving beyond black-box prediction toward models that also **explain** what drives market movements.
 
 My projects combine LLMs, retrieval-augmented generation, and reinforcement learning with financial and macroeconomic data.
 
